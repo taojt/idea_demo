@@ -4,8 +4,8 @@
 		public void run() {
 			try {
 				// TODO Auto-generated method stub
-				//模拟做事情执行了100秒；//以便一会咱们的监控工具监控到啊！
-				Thread.sleep(100000L);
+				//模拟做事情执行了8秒；//以便一会咱们的监控工具监控到啊！
+				Thread.sleep(8000L);
 			} catch (InterruptedException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();

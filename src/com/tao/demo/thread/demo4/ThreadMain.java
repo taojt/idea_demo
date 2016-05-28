@@ -22,7 +22,7 @@
 			
 			
 			try {
-				Thread.sleep(10000L);//休息10s以便我们的监控工具能监控到
+				Thread.sleep(5000L);//休息5s以便我们的监控工具能监控到
 			} catch (InterruptedException e) {
 				e.printStackTrace();
 			}
