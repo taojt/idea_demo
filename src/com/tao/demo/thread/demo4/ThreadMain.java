@@ -5,7 +5,7 @@
 		public static void main(String[] args) {
 			
 			ThreadB threadb = new ThreadB();
-			for(int i=0;i<1;i++) {
+			for(int i=0;i<5;i++) {
 				new Thread(threadb,"线程名称：("+i+")").start();
 			}
 			//返回对当前正在执行的线程对象的引用。此处获得咱们的主线程
