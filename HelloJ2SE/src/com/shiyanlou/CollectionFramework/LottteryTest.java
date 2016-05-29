@@ -3,7 +3,7 @@ package com.shiyanlou.CollectionFramework;
 import java.util.Scanner;
 
 /**
- * lottery 测试类
+ * lottery测试类
  *
  * @author taojt
  * @create 2016-05-29
