@@ -3,7 +3,7 @@ package com.tao.demo.thread.demo1;
 /**
  * 线程执行类
  *
- * @author taojt
+ * @author BookClass
  * @create 2016-05-28
  */
 public class ThreadMain {

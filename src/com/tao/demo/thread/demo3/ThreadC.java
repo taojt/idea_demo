@@ -5,7 +5,7 @@ import java.util.concurrent.Callable;
 /**
  * 第三种实现多线程的方式：通过实现Callable接口，实现call() 方法
  *
- * @author taojt
+ * @author BookClass
  * @create 2016-05-28
  */
 public class ThreadC implements Callable<String> {
